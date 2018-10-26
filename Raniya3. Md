@@ -1,0 +1,4 @@
+string=raw_input("enter the string")
+b=sorted(string)
+c=".join(b)
+print"sorted stringis",c
