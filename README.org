@@ -18,4 +18,4 @@ This year, the first 50,000 of you can earn a T-shirt (compared with 30,000 in 2
 
 * Rules for contributing to this Repo
 - Anybody can contribute and make PRs as long as there is no plagiarism.
-- We strictly adhere to our [[https://github.com/nexussjcet/logistics/blob/master/Code%2520Of%2520Conduct.md][Code of Conduct]] and we expect evryone else in our community to do the same too.
+- We strictly adhere to our [[https://github.com/nexussjcet/logistics/blob/master/Code%2520Of%2520Conduct.md][Code of Conduct]] and we expect everyone else in our community to do the same too.
