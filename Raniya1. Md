@@ -1,0 +1,4 @@
+one=input("enter the no")
+two=input("enter the no")
+sum=one+two
+print "the sum of two nos:",sum
