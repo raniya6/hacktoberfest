@@ -1,0 +1,4 @@
+a=input("enter the 1stno")
+b=input("enter the 2nd no")
+a,b=b,a
+print "1stno",a,"second no",b
