@@ -1,0 +1,7 @@
+limit=input("enter the limit")
+count=0
+sum=0
+while(count<=limit): 
+   sum+=count
+   count+=1
+   print"sum",sum
